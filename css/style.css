@@ -70,7 +70,7 @@ h2 {
 .hero {
   position: relative;
   height: 100vh;
-  background: url("../../assets/hero-background.jpeg") center/cover;
+  background: url("../assets/hero-background.jpeg") center/cover;
   -webkit-box-shadow: 20px;
           box-shadow: 20px;
   border-radius: 0px 0px 20px 21px; }
@@ -189,7 +189,7 @@ h2 {
     margin: 0; }
 
 .about-me .my-image {
-  background: url(../../assets/photo-3.jpg) top/cover;
+  background: url(../assets/photo-3.jpg) top/cover;
   height: 100%;
   width: 264px;
   border: 6px solid #CCC5C5;
@@ -275,27 +275,27 @@ h2 {
     height: 100%; }
 
 .image-1 {
-  background: url(../../assets/calculator.png) bottom/cover;
+  background: url(../assets/calculator.png) bottom/cover;
   height: 100%;
   width: auto; }
 
 .image-2 {
-  background: url(../../assets/projekt1.png) bottom/cover;
+  background: url(../assets/projekt1.png) bottom/cover;
   height: 100%;
   width: auto; }
 
 .image-3 {
-  background: url(../../assets/projekt2.png) bottom/cover;
+  background: url(../assets/projekt2.png) bottom/cover;
   height: 100%;
   width: auto; }
 
 .image-4 {
-  background: url(../../assets/projekt3.png) bottom/cover;
+  background: url(../assets/projekt3.png) bottom/cover;
   height: 100%;
   width: auto; }
 
 .image-5 {
-  background: url(../../assets/projekt4.png) bottom/cover;
+  background: url(../assets/projekt4.png) bottom/cover;
   height: 100%;
   width: auto; }
 
