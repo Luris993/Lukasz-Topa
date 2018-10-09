@@ -4,13 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "author": "",
   "license": "ISC",
+  "homepage": "https://luris993.github.io/Lukasz-Topa",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
